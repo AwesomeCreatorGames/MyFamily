@@ -1,0 +1,39 @@
+body
+{
+    background-color:black;
+    color:#42A5F5;
+    text-align:center;
+    font-family: 'Niconne', cursive;
+}
+#Title
+{
+    color:#8E24AA;
+}
+#LineBlue
+{
+    background-color:#26C6DA;
+    height:4px;
+}
+#LineIDontKnow
+{
+    background-color:#18FFFF;
+    height:4px;
+}
+#Button
+{
+    background-color:#E040FB;
+    color:#FAFAFA;
+    font-size:40px;
+    font-family: 'Niconne', cursive;
+}
+#album
+{
+ 
+  border-bottom: 4px solid #689F38;   
+  padding: 100px;
+}
+#Line
+{
+    Height:4px;
+    background-color:#18FFFF;
+}
